@@ -60,7 +60,7 @@ Each project folder contains:
 ## Contact
 
 - **Email:** muneebsultan47@gmail.com
-- **LinkedIn:** [muneeb-sultan](https://linkedin.com/in/muneeb-sultan)
+- **LinkedIn:** [muneeb-sultan](https://www.linkedin.com/in/muneeb-sultan-640798261)
 - **GitHub:** [muneebsultan](https://github.com/muneebsultan)
 
 > **Status:** Actively seeking Master's thesis opportunities in **explainable AI**, **computer vision**, and **robust deep learning**.
